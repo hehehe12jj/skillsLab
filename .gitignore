@@ -1,0 +1,5 @@
+.DS_Store
+
+# Local secrets — each skill copies *.config.example to .config and fills in real values
+flomo/.config
+**/.config
